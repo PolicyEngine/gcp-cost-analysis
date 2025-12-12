@@ -1,0 +1,14 @@
+# Temporary files
+*.tmp
+*.log
+/tmp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials (never commit these!)
+*.json
+!package.json
+credentials/
+secrets/
